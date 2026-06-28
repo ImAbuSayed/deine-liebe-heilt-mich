@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deine-liebe-heilt-mich/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Deine Liebe heilt mich](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deine-liebe-heilt-mich/) |
+| **Get License** | [Request Licensing for Deine Liebe heilt mich](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deine-liebe-heilt-mich/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, deine Liebe heilt mich, wenn die halbe Stadt pennt
+> Du bist mein V.I.P., das Einzige, was mich noch lenkt
+> Late Night im Phantom, wir fliegen durch die Skyline
+> Komm näher, Shawty, sag mir, heute Nacht bist du all mine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
