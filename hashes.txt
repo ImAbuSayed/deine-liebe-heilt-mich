@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deine Liebe heilt mich
+
+This log tracks the cryptographic history and versioning for the song **Deine Liebe heilt mich** (deine-liebe-heilt-mich).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T14:40:55.930871 | `v1` | `22b40b6628a03a0cc69712a42d7675c0f4a826138f0b4a8f9ac35bcaacd5a9b1` | `804815deba45e651a74206e0819f37570c8cd7c8f5036f74354a939f69910ca8` | `2026-06-28_deine-liebe-heilt-mich-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
